@@ -1,5 +1,7 @@
 # Streaming sketches lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/streaming-sketches-lab/)**
+
 Two bounded TypeScript streaming algorithms, evaluated against exact counts: **HyperLogLog** for distinct cardinality and **Count-Min** for point frequencies. The repository contains fixed synthetic streams, exact references, every repeated-seed estimate, raw query samples, payload accounting, portable snapshots, merge checks, tests and a report centered on observed error distributions.
 
 **[Technical report](docs/report.html)** · [Screenshots](docs/screenshots/README.md) · [Review recording](docs/recordings/README.md) · [Algorithm and state specification](docs/specification.md)
