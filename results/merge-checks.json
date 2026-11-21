@@ -1,0 +1,59 @@
+[
+  {
+    "stream": "uniform",
+    "seed": 0,
+    "hllP": 8,
+    "cmsWidth": 256,
+    "cmsDepth": 4,
+    "partitions": 4,
+    "partitionRule": "event index modulo 4",
+    "mergeOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "hllIdentical": true,
+    "cmsIdentical": true,
+    "hllStateSha256": "25b99a62d7cdb074f2f9b0b06efc25cda33ca6901531f5f2c3806cb2168f7c79",
+    "cmsStateSha256": "48ca6c5fecee9da844a0b70bb6e143d2d5870b0f1253de096f716fcd98ee1aef"
+  },
+  {
+    "stream": "power-skewed",
+    "seed": 0,
+    "hllP": 8,
+    "cmsWidth": 256,
+    "cmsDepth": 4,
+    "partitions": 4,
+    "partitionRule": "event index modulo 4",
+    "mergeOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "hllIdentical": true,
+    "cmsIdentical": true,
+    "hllStateSha256": "70fd2b2b3e2c4bd3cc31c4a0090e050c4c652e9cf00890fcb63575b41d7838a2",
+    "cmsStateSha256": "1d38b6ce1ac14972f24e181a781830d3fabdfc14aea09b6c519bb437eee06cfa"
+  },
+  {
+    "stream": "repeated",
+    "seed": 0,
+    "hllP": 8,
+    "cmsWidth": 256,
+    "cmsDepth": 4,
+    "partitions": 4,
+    "partitionRule": "event index modulo 4",
+    "mergeOrder": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "hllIdentical": true,
+    "cmsIdentical": true,
+    "hllStateSha256": "52308b22e64167d6d8e23808b44d397234321423d0c68af4a25435a5332b9e3d",
+    "cmsStateSha256": "9b4159be13f4321dab07be0e90f7ddb246298d07511e37e4733eb20392eb282f"
+  }
+]

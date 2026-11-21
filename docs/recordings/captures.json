@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-21T00:29:51.311515+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Streaming sketches lab",
+  "report_sha256_normalized_text": "6787f488365517ee9994fd15329db1ba12fdc91da921a559151084ffc45887e7",
+  "video_sha256": "908a859aa17f51dd4d0a8a1752f5c3c4414608668c374c61d2aaaffa3cb36132",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "b780468a5ad752c812c93a27ec93ea4183b870bc024fe38449b71a8eb7811d42"
+    },
+    {
+      "path": "docs/screenshots/02_hll.png",
+      "section": "hll",
+      "sha256": "b7ffcfc5dbc459c55a2f1bc5f0808a207f6e1c3527447e0510df3b9ff04dff89"
+    },
+    {
+      "path": "docs/screenshots/03_count-min.png",
+      "section": "count-min",
+      "sha256": "dd8990de2a74505a4a1ed988306a2cea4776cf74f484232718504d046383d49a"
+    },
+    {
+      "path": "docs/screenshots/04_space.png",
+      "section": "space",
+      "sha256": "79939fce7c366033a688eb3b7f7bea27a9c415bf4f508e5d66ac13e69d804b99"
+    },
+    {
+      "path": "docs/screenshots/05_merge.png",
+      "section": "merge",
+      "sha256": "1efca1485ed654d0359c5a65894d1968ec7a2d2747e95fb6c0a4417d2a2a8b43"
+    },
+    {
+      "path": "docs/screenshots/06_method.png",
+      "section": "method",
+      "sha256": "9cfb7d1312289786cfe2c00614922e88f5189e7db5e6fa7b745fe7674f88a6b5"
+    }
+  ]
+}

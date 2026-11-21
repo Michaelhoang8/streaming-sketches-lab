@@ -1,0 +1,7 @@
+{
+  "name": "streaming-sketches-lab", "version": "1.0.0", "private": true, "type": "module",
+  "description": "Measured HyperLogLog and Count-Min sketch behavior on deterministic synthetic streams",
+  "engines": { "node": ">=24.0.0 <25" },
+  "scripts": { "typecheck": "tsc --noEmit", "test": "node --test tests/*.test.ts", "experiment": "node scripts/experiment.ts", "report": "node scripts/report.ts", "cli": "node scripts/cli.ts" },
+  "devDependencies": { "@types/node": "24.19.2", "typescript": "7.0.2" }
+}

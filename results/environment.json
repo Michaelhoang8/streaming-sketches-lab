@@ -1,0 +1,15 @@
+{
+  "measuredAt": "2026-11-21T00:22:02.190Z",
+  "node": "v24.20.0",
+  "platform": "win32",
+  "architecture": "x64",
+  "clock": "performance.now",
+  "sourceHashEncoding": "UTF-8; CRLF normalized to LF",
+  "sourceSha256": {
+    "src/hash.ts": "d5206c13f266cdfbe569a3c2f559ace3908424220aaf42604c84d0d465f76028",
+    "src/sketches.ts": "60cd8053f25057028dda94395e94ba2b97e358aa8b0ad8daa4aa1d8de6ccf3a1",
+    "src/streams.ts": "6b9dd61f2e9b91651488060cd826ea3c7e5f8913048ff4035d82f219f550ab5f",
+    "scripts/experiment.ts": "9b43ef155f6d4443db4cd6c3fff40d59bf4bf5a3e6c8178f8fcd7ef83811d01c"
+  },
+  "provenance": "AI-assisted synthetic streaming algorithm laboratory. Estimates, counters, timings, and merge results are actual executions."
+}
